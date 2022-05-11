@@ -23,7 +23,7 @@
 - :bank: I’m currently working at Kapital Bank OJSC
 - :house: I’m currently living at Baku, Azerbaijan
 - :email: Email: calalmnf@gmail.com
-- :phone: Phone numbers: +994515927973 - +994773080251
+- :phone: Phone numbers: +994515927973 | +994773080251
 - :video_game: Hobbies: I like to riding a scooter, play video games, watch movies
 
 
