@@ -20,7 +20,6 @@
 
 <hr/>
 
-- :bank: I currently work at Kapital Bank OJSC
 - :house: I currently live in Baku, Azerbaijan
 - :email: Email: calalmnf@gmail.com
 - :phone: Phone numbers: +994515927973 | +994773080251
