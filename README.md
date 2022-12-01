@@ -22,7 +22,7 @@
 
 - :house: I currently live in Baku, Azerbaijan
 - :email: Email: calalmnf@gmail.com
-- :phone: Phone numbers: +994515927973 | +994773080251
+- :phone: Phone numbers: +994773080251
 - :video_game: Hobbies: I like to ride a scooter, play video games, watch movies
 
 
