@@ -2,7 +2,7 @@
   <p>Hi, i'm Jalal :wave:</p>
   <p>I'm front-end developer :rocket:</p>
   <div>
- <img src="https://media.giphy.com/media/l41lQJIpc7GHzWlry/giphy.gif" width="500"/>
+<a href="https://app.daily.dev/jalalbmnf"><img src="https://api.daily.dev/devcards/5e652af0e7b74eb2b6a914f8d9fab0b4.png?r=ljq" width="400" alt="jalalbmnf's Dev Card"/></a>
   </div>
   
   <div id="badges">
@@ -29,4 +29,4 @@
 
 ![](https://komarev.com/ghpvc/?username=jalalbmnf&style=for-the-badge&color=blueviolet&align=center)
 
-<a href="https://app.daily.dev/jalalbmnf"><img src="https://api.daily.dev/devcards/5e652af0e7b74eb2b6a914f8d9fab0b4.png?r=ljq" width="200" alt="jalalbmnf's Dev Card"/></a>
+
